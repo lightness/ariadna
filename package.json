@@ -1,0 +1,17 @@
+{
+  "name": "ariadna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./example/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "cls-proxify": "^1.0.1",
+    "uuid": "^3.3.3"
+  }
+}
